@@ -4,7 +4,7 @@
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/smallest-missing-multiple-of-k/
 // Runtime  : 2 ms (beats 68%)
-// Memory   : 45136000 (beats 67%)
+// Memory   : 45060000 (beats 71%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
