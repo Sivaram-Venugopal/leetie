@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-// Runtime  : 3 ms (beats 6%)
-// Memory   : 94516000 (beats 33%)
+// Runtime  : 2 ms (beats 44%)
+// Memory   : 94428000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
@@ -16,7 +16,7 @@ class Solution {
         int maxIndex = 0;
         int profit = 0;
 
-        for (int i = 1; i < prices.length; i++) {
+        for (int i = 0; i < prices.length; i++) {
             // update min if we find a smaller price
             if (prices[i] < prices[minIndex]) {
                 minIndex = i;
