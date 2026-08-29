@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Prefix Sum
 // Link     : https://leetcode.com/problems/subarray-sum-equals-k/
-// Runtime  : 1546 ms (beats 13%)
-// Memory   : 48772000 (beats 60%)
+// Runtime  : 1528 ms (beats 24%)
+// Memory   : 48760000 (beats 60%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
@@ -12,21 +12,17 @@
 
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int count = 0;
-        int n = nums.length;
-        // exa = {1,2,3} start = 0(1) , sum = 0
-        // end = 0(1) end<3; end++ = end = 1(2)
-        //sum = 0 + sum()
-        for(int i = 0 ; i < n ; i++){ // start
-            int sum = 0;
-        
-        for(int j = i ; j < n ; j++){
-            sum = sum + nums[j];
+        int cnt = 0;
+        for(int i=0;i<nums.length;i++){
+            int sum= 0;
+            for(int j=i;j<nums.length;j++){
+                sum = sum + nums[j];
+            
             if(sum == k){
-                count++;
-            }
+                cnt++; 
+             }
         }
         }
-        return count;
-        }
+        return cnt++;
+    }
 }
