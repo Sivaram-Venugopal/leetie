@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 7 Solved
+## Progress Summary: 8 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,5 +11,6 @@
 | single-number | Single Number | Easy | java | [Problem](https://leetcode.com/problems/single-number/) | [Solution](./solutions/Easy/0136-single-number/solution.java) |
 | sum-game | 1927. Sum Game | Medium | java | [Problem](https://leetcode.com/problems/sum-game/) | [Solution](./solutions/Medium/1927-sum-game/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | java | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.java) |
+| spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
