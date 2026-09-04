@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 18 Solved
+## Progress Summary: 19 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| all-divisions-with-the-highest-score-of-a-binary-array | All Divisions With the Highest Score of a Binary Array | Medium | java | [Problem](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [Solution](./solutions/Medium/2155-all-divisions-with-the-highest-score-of-a-binary-array/solution.java) |
 | best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.java) |
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
