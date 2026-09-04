@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 20 Solved
+## Progress Summary: 21 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | duplicate-emails | Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution](./solutions/Easy/0182-duplicate-emails/solution.sql) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
+| majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
 | remove-nth-node-from-end-of-list | 19. Remove Nth Node From End Of List | Medium | java | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.java) |
 | rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
