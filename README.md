@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 30 Solved
+## Progress Summary: 31 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
+| maximize-score-after-n-operations | Maximize Score After N Operations | Hard | java | [Problem](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Solution](./solutions/Hard/1799-maximize-score-after-n-operations/solution.java) |
 | maximum-subarray-min-product | Maximum Subarray Min-Product | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray-min-product/) | [Solution](./solutions/Medium/1856-maximum-subarray-min-product/solution.java) |
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
 | primary-department-for-each-employee | Primary Department for Each Employee | Easy | mysql | [Problem](https://leetcode.com/problems/primary-department-for-each-employee/) | [Solution](./solutions/Easy/1789-primary-department-for-each-employee/solution.sql) |
