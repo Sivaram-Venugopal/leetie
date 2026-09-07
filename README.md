@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 35 Solved
+## Progress Summary: 36 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -25,6 +25,7 @@
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | majority-element-ii | Majority Element II | Medium | java | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.java) |
 | maximize-score-after-n-operations | Maximize Score After N Operations | Hard | java | [Problem](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Solution](./solutions/Hard/1799-maximize-score-after-n-operations/solution.java) |
+| maximum-length-substring-with-two-occurrences | Maximum Length Substring With Two Occurrences | Easy | java | [Problem](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Solution](./solutions/Easy/3090-maximum-length-substring-with-two-occurrences/solution.java) |
 | maximum-subarray-min-product | Maximum Subarray Min-Product | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray-min-product/) | [Solution](./solutions/Medium/1856-maximum-subarray-min-product/solution.java) |
 | minimum-number-of-operations-to-reinitialize-a-permutation | Minimum Number of Operations to Reinitialize a Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Solution](./solutions/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/solution.java) |
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
