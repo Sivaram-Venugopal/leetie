@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 34 Solved
+## Progress Summary: 35 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | count-the-hidden-sequences | Count the Hidden Sequences | Medium | java | [Problem](https://leetcode.com/problems/count-the-hidden-sequences/) | [Solution](./solutions/Medium/2145-count-the-hidden-sequences/solution.java) |
 | determine-color-of-a-chessboard-square | Determine Color of a Chessboard Square | Easy | java | [Problem](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solution](./solutions/Easy/1812-determine-color-of-a-chessboard-square/solution.java) |
 | distinct-subsequences | Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
+| distinct-subsequences-ii | Distinct Subsequences II | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.java) |
 | duplicate-emails | Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/duplicate-emails/) | [Solution](./solutions/Easy/0182-duplicate-emails/solution.sql) |
 | find-the-index-of-the-first-occurrence-in-a-string | Find the Index of the First Occurrence in a String | Easy | java | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
