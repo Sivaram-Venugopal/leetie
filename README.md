@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 37 Solved
+## Progress Summary: 38 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | java | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.java) |
 | finding-the-users-active-minutes | Finding the Users Active Minutes | Medium | java | [Problem](https://leetcode.com/problems/finding-the-users-active-minutes/) | [Solution](./solutions/Medium/1817-finding-the-users-active-minutes/solution.java) |
 | first-bad-version | First Bad Version | Easy | java | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.java) |
+| furthest-point-from-origin | Furthest Point From Origin | Easy | java | [Problem](https://leetcode.com/problems/furthest-point-from-origin/) | [Solution](./solutions/Easy/2833-furthest-point-from-origin/solution.java) |
 | h-index | H-Index | Medium | java | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.java) |
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
