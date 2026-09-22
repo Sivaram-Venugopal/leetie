@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 51 Solved
+## Progress Summary: 52 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -28,6 +28,7 @@
 | fizz-buzz | Fizz Buzz | Easy | java | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.java) |
 | furthest-point-from-origin | Furthest Point From Origin | Easy | java | [Problem](https://leetcode.com/problems/furthest-point-from-origin/) | [Solution](./solutions/Easy/2833-furthest-point-from-origin/solution.java) |
 | h-index | H-Index | Medium | java | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.java) |
+| house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | implement-stack-using-queues | Implement Stack using Queues | Easy | java | [Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](./solutions/Easy/0225-implement-stack-using-queues/solution.java) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | java | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.java) |
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
