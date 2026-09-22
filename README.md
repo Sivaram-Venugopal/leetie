@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 52 Solved
+## Progress Summary: 53 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -12,6 +12,7 @@
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.java) |
 | can-i-win | Can I Win | Medium | java | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.java) |
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | java | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.java) |
+| convert-sorted-array-to-binary-search-tree | Convert Sorted Array to Binary Search Tree | Easy | java | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./solutions/Easy/0108-convert-sorted-array-to-binary-search-tree/solution.java) |
 | count-the-hidden-sequences | Count the Hidden Sequences | Medium | java | [Problem](https://leetcode.com/problems/count-the-hidden-sequences/) | [Solution](./solutions/Medium/2145-count-the-hidden-sequences/solution.java) |
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | Count Values With Equally Spaced Occurrences II | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
