@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 55 Solved
+## Progress Summary: 56 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | count-the-hidden-sequences | Count the Hidden Sequences | Medium | java | [Problem](https://leetcode.com/problems/count-the-hidden-sequences/) | [Solution](./solutions/Medium/2145-count-the-hidden-sequences/solution.java) |
 | count-values-with-equally-spaced-occurrences-i | Count Values With Equally Spaced Occurrences I | Easy | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Solution](./solutions/Easy/4415-count-values-with-equally-spaced-occurrences-i/solution.java) |
 | count-values-with-equally-spaced-occurrences-ii | Count Values With Equally Spaced Occurrences II | Medium | java | [Problem](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Solution](./solutions/Medium/4414-count-values-with-equally-spaced-occurrences-ii/solution.java) |
+| counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
 | determine-color-of-a-chessboard-square | Determine Color of a Chessboard Square | Easy | java | [Problem](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solution](./solutions/Easy/1812-determine-color-of-a-chessboard-square/solution.java) |
 | distinct-subsequences | Distinct Subsequences | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.java) |
 | distinct-subsequences-ii | Distinct Subsequences II | Hard | java | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.java) |
