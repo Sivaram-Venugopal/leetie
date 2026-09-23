@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 58 Solved
+## Progress Summary: 59 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
 | primary-department-for-each-employee | Primary Department for Each Employee | Easy | mysql | [Problem](https://leetcode.com/problems/primary-department-for-each-employee/) | [Solution](./solutions/Easy/1789-primary-department-for-each-employee/solution.sql) |
 | remove-nth-node-from-end-of-list | 19. Remove Nth Node From End Of List | Medium | java | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.java) |
+| reverse-vowels-of-a-string | Reverse Vowels of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](./solutions/Easy/0345-reverse-vowels-of-a-string/solution.java) |
 | rising-temperature | Rising Temperature | Easy | mysql | [Problem](https://leetcode.com/problems/rising-temperature/) | [Solution](./solutions/Easy/0197-rising-temperature/solution.sql) |
 | rotate-image | Rotate Image | Medium | java | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](./solutions/Medium/0048-rotate-image/solution.java) |
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
