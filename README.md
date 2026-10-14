@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 84 Solved
+## Progress Summary: 85 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -59,6 +59,7 @@
 | maximum-length-substring-with-two-occurrences | Maximum Length Substring With Two Occurrences | Easy | java | [Problem](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Solution](./solutions/Easy/3090-maximum-length-substring-with-two-occurrences/solution.java) |
 | maximum-subarray-min-product | Maximum Subarray Min-Product | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray-min-product/) | [Solution](./solutions/Medium/1856-maximum-subarray-min-product/solution.java) |
 | minimum-number-of-operations-to-reinitialize-a-permutation | Minimum Number of Operations to Reinitialize a Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Solution](./solutions/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/solution.java) |
+| partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | plus-one | Plus One | Easy | java | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.java) |
 | power-of-four | Power of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | primary-department-for-each-employee | Primary Department for Each Employee | Easy | mysql | [Problem](https://leetcode.com/problems/primary-department-for-each-employee/) | [Solution](./solutions/Easy/1789-primary-department-for-each-employee/solution.sql) |
