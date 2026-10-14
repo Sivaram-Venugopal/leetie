@@ -1,0 +1,14 @@
+// ──────────────────────────────────────────────────
+// Problem  : 195. Tenth Line
+// Difficulty: Easy
+// Tags     : Shell
+// Link     : https://leetcode.com/problems/tenth-line/
+// Runtime  : 21 ms (beats 86%)
+// Memory   : 3916000 (beats 36%)
+// Language : bash
+// Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+# Read from the file file.txt and output the tenth line to stdout.
+awk 'NR==10 {print}' file.txt
