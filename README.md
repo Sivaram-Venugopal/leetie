@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 90 Solved
+## Progress Summary: 91 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -60,6 +60,7 @@
 | maximize-score-after-n-operations | Maximize Score After N Operations | Hard | java | [Problem](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Solution](./solutions/Hard/1799-maximize-score-after-n-operations/solution.java) |
 | maximum-length-substring-with-two-occurrences | Maximum Length Substring With Two Occurrences | Easy | java | [Problem](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Solution](./solutions/Easy/3090-maximum-length-substring-with-two-occurrences/solution.java) |
 | maximum-subarray-min-product | Maximum Subarray Min-Product | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray-min-product/) | [Solution](./solutions/Medium/1856-maximum-subarray-min-product/solution.java) |
+| merge-two-sorted-lists | Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
 | minimum-number-of-operations-to-reinitialize-a-permutation | Minimum Number of Operations to Reinitialize a Permutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Solution](./solutions/Medium/1806-minimum-number-of-operations-to-reinitialize-a-permutation/solution.java) |
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
 | palindrome-number | Palindrome Number | Easy | java | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](./solutions/Easy/0009-palindrome-number/solution.java) |
