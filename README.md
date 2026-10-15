@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 87 Solved
+## Progress Summary: 88 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -76,6 +76,7 @@
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
 | rotate-string | Rotate String | Easy | java | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.java) |
 | same-tree | Same Tree | Easy | java | [Problem](https://leetcode.com/problems/same-tree/) | [Solution](./solutions/Easy/0100-same-tree/solution.java) |
+| search-insert-position | Search Insert Position | Easy | java | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.java) |
 | second-largest-digit-in-a-string | Second Largest Digit in a String | Easy | java | [Problem](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Solution](./solutions/Easy/1796-second-largest-digit-in-a-string/solution.java) |
 | single-number | Single Number | Easy | java | [Problem](https://leetcode.com/problems/single-number/) | [Solution](./solutions/Easy/0136-single-number/solution.java) |
 | smallest-missing-multiple-of-k | 3718. Smallest Missing Multiple Of K | Easy | java | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.java) |
