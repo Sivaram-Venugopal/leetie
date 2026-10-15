@@ -10,6 +10,7 @@
 | add-two-numbers | Add Two Numbers | Medium | java | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solutions/Medium/0002-add-two-numbers/solution.java) |
 | additive-number | Additive Number | Medium | java | [Problem](https://leetcode.com/problems/additive-number/) | [Solution](./solutions/Medium/0306-additive-number/solution.java) |
 | all-divisions-with-the-highest-score-of-a-binary-array | All Divisions With the Highest Score of a Binary Array | Medium | java | [Problem](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [Solution](./solutions/Medium/2155-all-divisions-with-the-highest-score-of-a-binary-array/solution.java) |
+| balanced-binary-tree | Balanced Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./solutions/Easy/0110-balanced-binary-tree/solution.java) |
 | best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.java) |
 | binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
@@ -91,7 +92,6 @@
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | subsets | Subsets | Medium | java | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.java) |
 | subsets-ii | Subsets II | Medium | java | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.java) |
-| sum-game | 1927. Sum Game | Medium | java | [Problem](https://leetcode.com/problems/sum-game/) | [Solution](./solutions/Medium/1927-sum-game/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-two-integers | Sum of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
 | super-pow | Super Pow | Medium | java | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.java) |
