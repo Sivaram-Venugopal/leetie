@@ -4,7 +4,7 @@
 // Tags     : Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/balanced-binary-tree/
 // Runtime  : 1 ms (beats 32%)
-// Memory   : 45000000 (beats 99%)
+// Memory   : 44896000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
