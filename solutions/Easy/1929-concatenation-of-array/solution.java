@@ -4,7 +4,7 @@
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/concatenation-of-array/
 // Runtime  : 1 ms (beats 98%)
-// Memory   : 47420000 (beats 5%)
+// Memory   : 47008000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
@@ -17,7 +17,8 @@ class Solution {
         for(int i=0;i<n;i++){
             arr[i] = nums[i];
             arr[i+n] = nums[i];
+
         }
-return arr;
+        return arr;
     }
 }
