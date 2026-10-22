@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Sorting
 // Link     : https://leetcode.com/problems/valid-anagram/
-// Runtime  : 5 ms (beats 63%)
-// Memory   : 44072000 (beats 95%)
+// Runtime  : 6 ms (beats 47%)
+// Memory   : 43640000 (beats 99%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
@@ -12,18 +12,19 @@
 
 class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) return false;
-
-        // Count frequency of each character
-        int[] count = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
+        if(s.length() != t.length()){
+            return false;
         }
-
-        // Check if all counts are zero
-        for (int i = 0; i < 26; i++) {
-            if (count[i] != 0) return false;
+        int[] freq1= new int[26];
+        int[] freq2 = new int[26];
+        for(int i=0;i<s.length();i++){
+            freq1[s.charAt(i) - 'a']++;
+            freq2[t.charAt(i) - 'a']++;
+        }
+        for(int i=0;i<26;i++){
+            if(freq1[i] != freq2[i]){
+                return false;
+            }
         }
         return true;
     }
