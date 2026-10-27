@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 93 Solved
+## Progress Summary: 94 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -94,6 +94,7 @@
 | super-pow | Super Pow | Medium | java | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.java) |
 | symmetric-tree | Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | tenth-line | Tenth Line | Easy | bash | [Problem](https://leetcode.com/problems/tenth-line/) | [Solution](./solutions/Easy/0195-tenth-line/solution.txt) |
+| triangle | Triangle | Medium | java | [Problem](https://leetcode.com/problems/triangle/) | [Solution](./solutions/Medium/0120-triangle/solution.java) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | valid-anagram | Valid Anagram | Easy | java | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.java) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
