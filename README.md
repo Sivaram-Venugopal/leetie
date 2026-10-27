@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 91 Solved
+## Progress Summary: 92 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -96,4 +96,5 @@
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | valid-anagram | Valid Anagram | Easy | java | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.java) |
 | valid-phone-numbers | Valid Phone Numbers | Easy | bash | [Problem](https://leetcode.com/problems/valid-phone-numbers/) | [Solution](./solutions/Easy/0193-valid-phone-numbers/solution.txt) |
+| validate-binary-search-tree | Validate Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./solutions/Medium/0098-validate-binary-search-tree/solution.java) |
 | word-pattern | Word Pattern | Easy | java | [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](./solutions/Easy/0290-word-pattern/solution.java) |
