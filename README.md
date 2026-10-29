@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 94 Solved
+## Progress Summary: 95 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -64,6 +64,7 @@
 | number-of-subarrays-with-bounded-maximum | Number of Subarrays with Bounded Maximum | Medium | java | [Problem](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Solution](./solutions/Medium/0795-number-of-subarrays-with-bounded-maximum/solution.java) |
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
 | palindrome-number | Palindrome Number | Easy | java | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](./solutions/Easy/0009-palindrome-number/solution.java) |
+| pancake-sorting | Pancake Sorting | Medium | java | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.java) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | pascals-triangle | Pascal's Triangle | Easy | java | [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](./solutions/Easy/0118-pascals-triangle/solution.java) |
 | pascals-triangle-ii | Pascal's Triangle II | Easy | java | [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./solutions/Easy/0119-pascals-triangle-ii/solution.java) |
