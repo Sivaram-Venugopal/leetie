@@ -39,7 +39,6 @@
 | generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
 | gray-code | Gray Code | Medium | java | [Problem](https://leetcode.com/problems/gray-code/) | [Solution](./solutions/Medium/0089-gray-code/solution.java) |
 | guess-number-higher-or-lower | Guess Number Higher or Lower | Easy | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.java) |
-| house-robber | House Robber | Medium | java | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.java) |
 | house-robber-iii | House Robber III | Medium | java | [Problem](https://leetcode.com/problems/house-robber-iii/) | [Solution](./solutions/Medium/0337-house-robber-iii/solution.java) |
 | image-smoother | Image Smoother | Easy | java | [Problem](https://leetcode.com/problems/image-smoother/) | [Solution](./solutions/Easy/0661-image-smoother/solution.java) |
 | integer-replacement | Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
@@ -76,6 +75,7 @@
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
 | repeated-dna-sequences | Repeated DNA Sequences | Medium | java | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
+| reveal-cards-in-increasing-order | Reveal Cards In Increasing Order | Medium | java | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.java) |
 | reverse-vowels-of-a-string | Reverse Vowels of a String | Easy | java | [Problem](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](./solutions/Easy/0345-reverse-vowels-of-a-string/solution.java) |
 | rotate-array | Rotate Array | Medium | java | [Problem](https://leetcode.com/problems/rotate-array/) | [Solution](./solutions/Medium/0189-rotate-array/solution.java) |
 | rotate-function | Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
