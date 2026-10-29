@@ -33,7 +33,6 @@
 | fair-candy-swap | Fair Candy Swap | Easy | java | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.java) |
 | find-all-numbers-disappeared-in-an-array | Find All Numbers Disappeared in an Array | Easy | java | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](./solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/solution.java) |
 | find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
-| fizz-buzz | Fizz Buzz | Easy | java | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.java) |
 | flatten-binary-tree-to-linked-list | Flatten Binary Tree to Linked List | Medium | java | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.java) |
 | flatten-nested-list-iterator | Flatten Nested List Iterator | Medium | java | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.java) |
 | flipping-an-image | Flipping an Image | Easy | java | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.java) |
@@ -98,5 +97,6 @@
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | utf-8-validation | UTF-8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
 | valid-anagram | Valid Anagram | Easy | java | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.java) |
+| valid-mountain-array | Valid Mountain Array | Easy | java | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.java) |
 | validate-binary-search-tree | Validate Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./solutions/Medium/0098-validate-binary-search-tree/solution.java) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | java | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.java) |
