@@ -27,6 +27,7 @@
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
 | divide-two-integers | Divide Two Integers | Medium | java | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](./solutions/Medium/0029-divide-two-integers/solution.java) |
+| duplicate-zeros | Duplicate Zeros | Easy | java | [Problem](https://leetcode.com/problems/duplicate-zeros/) | [Solution](./solutions/Easy/1089-duplicate-zeros/solution.java) |
 | evaluate-division | Evaluate Division | Medium | java | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.java) |
 | fair-candy-swap | Fair Candy Swap | Easy | java | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.java) |
 | find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
@@ -37,7 +38,6 @@
 | generate-parentheses | Generate Parentheses | Medium | java | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.java) |
 | grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | java | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.java) |
 | height-checker | Height Checker | Easy | java | [Problem](https://leetcode.com/problems/height-checker/) | [Solution](./solutions/Easy/1051-height-checker/solution.java) |
-| house-robber-iii | House Robber III | Medium | java | [Problem](https://leetcode.com/problems/house-robber-iii/) | [Solution](./solutions/Medium/0337-house-robber-iii/solution.java) |
 | image-smoother | Image Smoother | Easy | java | [Problem](https://leetcode.com/problems/image-smoother/) | [Solution](./solutions/Easy/0661-image-smoother/solution.java) |
 | integer-replacement | Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
 | intersection-of-two-arrays | Intersection of Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.java) |
