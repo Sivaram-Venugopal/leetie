@@ -15,7 +15,6 @@
 | balanced-binary-tree | Balanced Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./solutions/Easy/0110-balanced-binary-tree/solution.java) |
 | battleships-in-a-board | Battleships in a Board | Medium | java | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.java) |
 | best-time-to-buy-and-sell-stock-ii | Best Time to Buy and Sell Stock II | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./solutions/Medium/0122-best-time-to-buy-and-sell-stock-ii/solution.java) |
-| binary-tree-inorder-traversal | Binary Tree Inorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](./solutions/Easy/0094-binary-tree-inorder-traversal/solution.java) |
 | binary-tree-paths | Binary Tree Paths | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.java) |
 | binary-tree-right-side-view | Binary Tree Right Side View | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./solutions/Medium/0199-binary-tree-right-side-view/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
@@ -64,6 +63,7 @@
 | merge-two-sorted-lists | Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
 | min-stack | Min Stack | Medium | java | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](./solutions/Medium/0155-min-stack/solution.java) |
 | minimum-depth-of-binary-tree | Minimum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
+| monotonic-array | Monotonic Array | Easy | java | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.java) |
 | non-decreasing-array | Non-decreasing Array | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.java) |
 | number-of-subarrays-with-bounded-maximum | Number of Subarrays with Bounded Maximum | Medium | java | [Problem](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Solution](./solutions/Medium/0795-number-of-subarrays-with-bounded-maximum/solution.java) |
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
