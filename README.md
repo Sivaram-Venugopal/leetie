@@ -86,7 +86,7 @@
 | search-in-rotated-sorted-array | Search in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
 | search-insert-position | Search Insert Position | Easy | java | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.java) |
 | second-largest-digit-in-a-string | Second Largest Digit in a String | Easy | java | [Problem](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Solution](./solutions/Easy/1796-second-largest-digit-in-a-string/solution.java) |
-| smallest-stable-index-i | Smallest Stable Index I | Easy | java | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.java) |
+| shuffle-an-array | Shuffle an Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
 | subsets | Subsets | Medium | java | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.java) |
 | subsets-ii | Subsets II | Medium | java | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
