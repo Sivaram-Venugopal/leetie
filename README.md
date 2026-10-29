@@ -39,7 +39,6 @@
 | grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | java | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.java) |
 | height-checker | Height Checker | Easy | java | [Problem](https://leetcode.com/problems/height-checker/) | [Solution](./solutions/Easy/1051-height-checker/solution.java) |
 | image-smoother | Image Smoother | Easy | java | [Problem](https://leetcode.com/problems/image-smoother/) | [Solution](./solutions/Easy/0661-image-smoother/solution.java) |
-| integer-replacement | Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
 | k-closest-points-to-origin | K Closest Points to Origin | Medium | java | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./solutions/Medium/0973-k-closest-points-to-origin/solution.java) |
 | largest-number-at-least-twice-of-others | Largest Number At Least Twice of Others | Easy | java | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.java) |
 | last-stone-weight | Last Stone Weight | Easy | java | [Problem](https://leetcode.com/problems/last-stone-weight/) | [Solution](./solutions/Easy/1046-last-stone-weight/solution.java) |
@@ -47,6 +46,7 @@
 | longest-consecutive-sequence | Longest Consecutive Sequence | Medium | java | [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/Medium/0128-longest-consecutive-sequence/solution.java) |
 | longest-continuous-increasing-subsequence | Longest Continuous Increasing Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](./solutions/Easy/0674-longest-continuous-increasing-subsequence/solution.java) |
 | longest-harmonious-subsequence | Longest Harmonious Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.java) |
+| longest-mountain-in-array | Longest Mountain in Array | Medium | java | [Problem](https://leetcode.com/problems/longest-mountain-in-array/) | [Solution](./solutions/Medium/0845-longest-mountain-in-array/solution.java) |
 | magic-squares-in-grid | Magic Squares In Grid | Medium | java | [Problem](https://leetcode.com/problems/magic-squares-in-grid/) | [Solution](./solutions/Medium/0840-magic-squares-in-grid/solution.java) |
 | matrix-cells-in-distance-order | Matrix Cells in Distance Order | Easy | java | [Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Solution](./solutions/Easy/1030-matrix-cells-in-distance-order/solution.java) |
 | max-area-of-island | Max Area of Island | Medium | java | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.java) |
