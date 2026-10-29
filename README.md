@@ -25,6 +25,7 @@
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
+| corporate-flight-bookings | Corporate Flight Bookings | Medium | java | [Problem](https://leetcode.com/problems/corporate-flight-bookings/) | [Solution](./solutions/Medium/1109-corporate-flight-bookings/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
 | divide-two-integers | Divide Two Integers | Medium | java | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](./solutions/Medium/0029-divide-two-integers/solution.java) |
 | duplicate-zeros | Duplicate Zeros | Easy | java | [Problem](https://leetcode.com/problems/duplicate-zeros/) | [Solution](./solutions/Easy/1089-duplicate-zeros/solution.java) |
@@ -72,7 +73,6 @@
 | pascals-triangle | Pascal's Triangle | Easy | java | [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](./solutions/Easy/0118-pascals-triangle/solution.java) |
 | pascals-triangle-ii | Pascal's Triangle II | Easy | java | [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./solutions/Easy/0119-pascals-triangle-ii/solution.java) |
 | peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | java | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.java) |
-| power-of-four | Power of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
 | previous-permutation-with-one-swap | Previous Permutation With One Swap | Medium | java | [Problem](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Solution](./solutions/Medium/1053-previous-permutation-with-one-swap/solution.java) |
 | projection-area-of-3d-shapes | Projection Area of 3D Shapes | Easy | java | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.java) |
 | queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
