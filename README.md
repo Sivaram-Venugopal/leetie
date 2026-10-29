@@ -25,7 +25,6 @@
 | construct-the-rectangle | Construct the Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
-| convert-sorted-array-to-binary-search-tree | Convert Sorted Array to Binary Search Tree | Easy | java | [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./solutions/Easy/0108-convert-sorted-array-to-binary-search-tree/solution.java) |
 | counting-bits | Counting Bits | Easy | java | [Problem](https://leetcode.com/problems/counting-bits/) | [Solution](./solutions/Easy/0338-counting-bits/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
 | divide-two-integers | Divide Two Integers | Medium | java | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](./solutions/Medium/0029-divide-two-integers/solution.java) |
@@ -60,6 +59,7 @@
 | minimum-depth-of-binary-tree | Minimum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
 | minimum-increment-to-make-array-unique | Minimum Increment to Make Array Unique | Medium | java | [Problem](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Solution](./solutions/Medium/0945-minimum-increment-to-make-array-unique/solution.java) |
 | monotonic-array | Monotonic Array | Easy | java | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.java) |
+| n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | java | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.java) |
 | non-decreasing-array | Non-decreasing Array | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.java) |
 | number-of-subarrays-with-bounded-maximum | Number of Subarrays with Bounded Maximum | Medium | java | [Problem](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Solution](./solutions/Medium/0795-number-of-subarrays-with-bounded-maximum/solution.java) |
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
