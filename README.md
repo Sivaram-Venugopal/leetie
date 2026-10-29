@@ -19,7 +19,6 @@
 | best-sightseeing-pair | Best Sightseeing Pair | Medium | java | [Problem](https://leetcode.com/problems/best-sightseeing-pair/) | [Solution](./solutions/Medium/1014-best-sightseeing-pair/solution.java) |
 | best-time-to-buy-and-sell-stock-ii | Best Time to Buy and Sell Stock II | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](./solutions/Medium/0122-best-time-to-buy-and-sell-stock-ii/solution.java) |
 | binary-tree-zigzag-level-order-traversal | Binary Tree Zigzag Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution](./solutions/Medium/0103-binary-tree-zigzag-level-order-traversal/solution.java) |
-| bulls-and-cows | Bulls and Cows | Medium | java | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.java) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
 | concatenation-of-array | Concatenation of Array | Easy | java | [Problem](https://leetcode.com/problems/concatenation-of-array/) | [Solution](./solutions/Easy/1929-concatenation-of-array/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
@@ -73,6 +72,7 @@
 | pascals-triangle-ii | Pascal's Triangle II | Easy | java | [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./solutions/Easy/0119-pascals-triangle-ii/solution.java) |
 | peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | java | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.java) |
 | power-of-four | Power of Four | Easy | java | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.java) |
+| previous-permutation-with-one-swap | Previous Permutation With One Swap | Medium | java | [Problem](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Solution](./solutions/Medium/1053-previous-permutation-with-one-swap/solution.java) |
 | projection-area-of-3d-shapes | Projection Area of 3D Shapes | Easy | java | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.java) |
 | queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | range-sum-query-immutable | Range Sum Query - Immutable | Easy | java | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.java) |
