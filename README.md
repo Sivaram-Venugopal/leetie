@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 96 Solved
+## Progress Summary: 97 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 1-bit-and-2-bit-characters | 1-bit and 2-bit Characters | Easy | java | [Problem](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Solution](./solutions/Easy/0717-1-bit-and-2-bit-characters/solution.java) |
 | add-strings | Add Strings | Easy | java | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.java) |
+| add-to-array-form-of-integer | Add to Array-Form of Integer | Easy | java | [Problem](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Solution](./solutions/Easy/0989-add-to-array-form-of-integer/solution.java) |
 | add-two-numbers | Add Two Numbers | Medium | java | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solutions/Medium/0002-add-two-numbers/solution.java) |
 | additive-number | Additive Number | Medium | java | [Problem](https://leetcode.com/problems/additive-number/) | [Solution](./solutions/Medium/0306-additive-number/solution.java) |
 | arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
