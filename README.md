@@ -51,7 +51,6 @@
 | longest-consecutive-sequence | Longest Consecutive Sequence | Medium | java | [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/Medium/0128-longest-consecutive-sequence/solution.java) |
 | longest-continuous-increasing-subsequence | Longest Continuous Increasing Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](./solutions/Easy/0674-longest-continuous-increasing-subsequence/solution.java) |
 | longest-increasing-subsequence | Longest Increasing Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./solutions/Medium/0300-longest-increasing-subsequence/solution.java) |
-| longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
 | magic-squares-in-grid | Magic Squares In Grid | Medium | java | [Problem](https://leetcode.com/problems/magic-squares-in-grid/) | [Solution](./solutions/Medium/0840-magic-squares-in-grid/solution.java) |
 | matchsticks-to-square | Matchsticks to Square | Medium | java | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.java) |
 | max-chunks-to-make-sorted | Max Chunks To Make Sorted | Medium | java | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.java) |
@@ -86,6 +85,7 @@
 | shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
 | shuffle-an-array | Shuffle an Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
 | sort-array-by-parity | Sort Array By Parity | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.java) |
+| sort-array-by-parity-ii | Sort Array By Parity II | Easy | java | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.java) |
 | subsets-ii | Subsets II | Medium | java | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-two-integers | Sum of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
