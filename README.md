@@ -58,6 +58,7 @@
 | merge-k-sorted-lists | Merge k Sorted Lists | Hard | java | [Problem](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./solutions/Hard/0023-merge-k-sorted-lists/solution.java) |
 | merge-two-sorted-lists | Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
 | min-stack | Min Stack | Medium | java | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](./solutions/Medium/0155-min-stack/solution.java) |
+| minimum-absolute-difference | Minimum Absolute Difference | Easy | java | [Problem](https://leetcode.com/problems/minimum-absolute-difference/) | [Solution](./solutions/Easy/1200-minimum-absolute-difference/solution.java) |
 | minimum-depth-of-binary-tree | Minimum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
 | minimum-increment-to-make-array-unique | Minimum Increment to Make Array Unique | Medium | java | [Problem](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Solution](./solutions/Medium/0945-minimum-increment-to-make-array-unique/solution.java) |
 | monotonic-array | Monotonic Array | Easy | java | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.java) |
@@ -66,7 +67,6 @@
 | non-decreasing-array | Non-decreasing Array | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.java) |
 | number-of-equivalent-domino-pairs | Number of Equivalent Domino Pairs | Easy | java | [Problem](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Solution](./solutions/Easy/1128-number-of-equivalent-domino-pairs/solution.java) |
 | number-of-subarrays-with-bounded-maximum | Number of Subarrays with Bounded Maximum | Medium | java | [Problem](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Solution](./solutions/Medium/0795-number-of-subarrays-with-bounded-maximum/solution.java) |
-| pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
 | pairs-of-songs-with-total-durations-divisible-by-60 | Pairs of Songs With Total Durations Divisible by 60 | Medium | java | [Problem](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution](./solutions/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/solution.java) |
 | palindrome-number | Palindrome Number | Easy | java | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](./solutions/Easy/0009-palindrome-number/solution.java) |
 | pancake-sorting | Pancake Sorting | Medium | java | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.java) |
