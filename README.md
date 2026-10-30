@@ -26,6 +26,7 @@
 | contains-duplicate | Contains Duplicate | Easy | java | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.java) |
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | corporate-flight-bookings | Corporate Flight Bookings | Medium | java | [Problem](https://leetcode.com/problems/corporate-flight-bookings/) | [Solution](./solutions/Medium/1109-corporate-flight-bookings/solution.java) |
+| decrease-elements-to-make-array-zigzag | Decrease Elements To Make Array Zigzag | Medium | java | [Problem](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [Solution](./solutions/Medium/1144-decrease-elements-to-make-array-zigzag/solution.java) |
 | degree-of-an-array | Degree of an Array | Easy | java | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.java) |
 | divide-two-integers | Divide Two Integers | Medium | java | [Problem](https://leetcode.com/problems/divide-two-integers/) | [Solution](./solutions/Medium/0029-divide-two-integers/solution.java) |
 | duplicate-zeros | Duplicate Zeros | Easy | java | [Problem](https://leetcode.com/problems/duplicate-zeros/) | [Solution](./solutions/Easy/1089-duplicate-zeros/solution.java) |
@@ -92,7 +93,6 @@
 | squares-of-a-sorted-array | Squares of a Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./solutions/Easy/0977-squares-of-a-sorted-array/solution.java) |
 | subarray-product-less-than-k | Subarray Product Less Than K | Medium | java | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.java) |
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | java | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.java) |
-| sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | symmetric-tree | Symmetric Tree | Easy | java | [Problem](https://leetcode.com/problems/symmetric-tree/) | [Solution](./solutions/Easy/0101-symmetric-tree/solution.java) |
 | toeplitz-matrix | Toeplitz Matrix | Easy | java | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.java) |
 | transpose-matrix | Transpose Matrix | Easy | java | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.java) |
