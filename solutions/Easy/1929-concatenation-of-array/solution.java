@@ -4,7 +4,7 @@
 // Tags     : Array, Simulation
 // Link     : https://leetcode.com/problems/concatenation-of-array/
 // Runtime  : 1 ms (beats 98%)
-// Memory   : 46912000 (beats 88%)
+// Memory   : 47048000 (beats 39%)
 // Language : java
 // Copyright: (c) 2026 Sivaram-Venugopal. All rights reserved.
 // Synced by: leetie
@@ -13,11 +13,12 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
-        int[] arr = new int[2*n];
-        for(int i=0;i<n;i++){
-            arr[i] = nums[i];
-            arr[i+n] = nums[i];
+        int[] ans = new int[2*n];
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i=0; i<n;i++){
+            ans[i] = nums[i];
+            ans[i+n] = nums[i];
         }
-        return arr;
+        return ans;
     }
 }
