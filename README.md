@@ -54,7 +54,6 @@
 | max-chunks-to-make-sorted | Max Chunks To Make Sorted | Medium | java | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.java) |
 | maximize-distance-to-closest-person | Maximize Distance to Closest Person | Medium | java | [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](./solutions/Medium/0849-maximize-distance-to-closest-person/solution.java) |
 | maximum-product-of-three-numbers | Maximum Product of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
-| merge-k-sorted-lists | Merge k Sorted Lists | Hard | java | [Problem](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./solutions/Hard/0023-merge-k-sorted-lists/solution.java) |
 | min-stack | Min Stack | Medium | java | [Problem](https://leetcode.com/problems/min-stack/) | [Solution](./solutions/Medium/0155-min-stack/solution.java) |
 | minimum-absolute-difference | Minimum Absolute Difference | Easy | java | [Problem](https://leetcode.com/problems/minimum-absolute-difference/) | [Solution](./solutions/Easy/1200-minimum-absolute-difference/solution.java) |
 | minimum-depth-of-binary-tree | Minimum Depth of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
@@ -78,6 +77,7 @@
 | range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | recover-binary-search-tree | Recover Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution](./solutions/Medium/0099-recover-binary-search-tree/solution.java) |
 | relative-sort-array | Relative Sort Array | Easy | java | [Problem](https://leetcode.com/problems/relative-sort-array/) | [Solution](./solutions/Easy/1122-relative-sort-array/solution.java) |
+| remove-element | Remove Element | Easy | java | [Problem](https://leetcode.com/problems/remove-element/) | [Solution](./solutions/Easy/0027-remove-element/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
 | reveal-cards-in-increasing-order | Reveal Cards In Increasing Order | Medium | java | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.java) |
 | search-in-rotated-sorted-array | Search in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0033-search-in-rotated-sorted-array/solution.java) |
